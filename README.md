@@ -10,9 +10,9 @@ https://julienbayle.studio/PythonLiveAPI_documentation/Live10.1.19.xml
 
 **AND FOR FRENCH PEOPLE:**
 
-**SI VOUS VOULEZ MAÎTRISER TOTALEMENT ABLETON LIVE SUITE 11
+**SI VOUS VOULEZ MAÎTRISER TOTALEMENT ABLETON LIVE SUITE 11**
 
-NOUS PROPOSONS DES FORMATIONS FINANÇABLES À MARSEILLE OU EN LIGNE :**
+**NOUS PROPOSONS DES FORMATIONS FINANÇABLES À MARSEILLE OU EN LIGNE :**
 [ABLETON LIVE SUITE 11](https://structure-void.com/formations/ableton-live)  ET  [MAX FOR LIVE](https://structure-void.com/formations/max-for-live)
 
 

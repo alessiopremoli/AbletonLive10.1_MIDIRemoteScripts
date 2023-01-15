@@ -280,8 +280,7 @@ class ChannelStrip(MackieControlComponent):
         if self.__assigned_track:
             all_tracks = tuple(self.song().visible_tracks) + tuple(self.song().return_tracks)
             if self.song().view.selected_track != all_tracks[self.__assigned_track_index()]:
-                pass
-                # self.song().view.selected_track = all_tracks[self.__assigned_track_index()]
+                self.song().view.selected_track = all_tracks[self.__assigned_track_index()]
             elif self.application().view.is_view_visible(u'Arranger'):
                 if self.__assigned_track:
                     self.__assigned_track.view.is_collapsed = not self.__assigned_track.view.is_collapsed
